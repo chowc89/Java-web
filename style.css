@@ -1,0 +1,66 @@
+.ui.borderless.topmenu.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.ui.image {
+  max-width: 200px;
+}
+
+h2 {
+  padding-top: 100px;
+  padding-bottom: 50px;
+  color: #F51B37;
+}
+p {
+  color: #ffffff;
+  font-size: xxx-large;
+}
+
+
+.sharetea-background {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("https://www.1992sharetea.com/wp-content/uploads/2019/03/homepage_bg-300x179.png");
+  background-size: cover;
+  background-position: 50% 50%, 50% 50%;
+  background-repeat: no-repeat;
+}
+
+.footer-background {
+  background-color: #3A3a3a;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.ui.item {
+  color: white;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+}
+
+.container .btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  background-color: Transparent;
+}
+
+#bot ul {
+  list-style: none;
+}
+
+#bot li {
+  display: inline;
+  padding-right: 20px;
+}
